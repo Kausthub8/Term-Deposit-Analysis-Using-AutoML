@@ -1,2 +1,5 @@
 # Term-Deposit-Analysis-Using-AutoML
-Internship Starting Porject based on H20.ai gradient boosted machines.
+
+
+1. (PS)Internship  Project based on H20.ai gradient boosted machines.
+2. Achieved 92% accuracy through XGboost method with help of automl.
